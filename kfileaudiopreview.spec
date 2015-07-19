@@ -2,7 +2,7 @@
 
 Name: kfileaudiopreview
 Version: 4.99.0
-Release: 4
+Release: 5
 Source0: http://ftp5.gwdg.de/pub/linux/kde/unstable/frameworks/%{version}/%{name}-%{version}.tar.xz
 Summary: Plugin interface for audio previews
 URL: http://kde.org/
