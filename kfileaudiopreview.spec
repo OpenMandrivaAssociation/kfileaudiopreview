@@ -5,7 +5,7 @@ Version: 4.99.0
 Release: 7
 Source0: http://ftp5.gwdg.de/pub/linux/kde/unstable/frameworks/%{version}/%{name}-%{version}.tar.xz
 Summary: Plugin interface for audio previews
-URL: http://kde.org/
+URL: https://kde.org/
 License: GPL
 Group: System/Libraries
 BuildRequires: cmake
